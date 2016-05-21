@@ -10,7 +10,7 @@ const (
 	// INPUT holds our user's name
 	INPUT = "input#name"
 	// OUTPUT holds greeting
-	OUTPUT = "span#output"
+	OUTPUT = "span#greeting"
 )
 
 var jQuery = jquery.NewJQuery
